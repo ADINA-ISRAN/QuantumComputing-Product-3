@@ -1,0 +1,2 @@
+exact_optimum,ideal_expected_cut,noisy_expected_cut,mitigated_expected_cut,ideal_approximation_ratio,noisy_approximation_ratio,mitigated_approximation_ratio,noise_degradation_ideal_minus_noisy,mitigation_change_noisy_to_mitigated,runtime_seconds,optimizer_iterations
+4.0,3.06543,2.998047,3.063656,0.766357,0.749512,0.765914,0.067383,0.06561,11.2633,29
